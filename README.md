@@ -9,8 +9,8 @@ for browsing movies and TV shows.
 - **Static Content:** As a static webpage, the clone doesn't have real-time functionality or dynamic content reloading.
 
 ## Technologies Used
-- **HTML:** USed for structuring the content of the web page.
-- **CSS:** USed for styling and layout design.
+- **HTML:** Used for structuring the content of the web page.
+- **CSS:** Used for styling and layout design.
 
 ## ScreenShots
 
